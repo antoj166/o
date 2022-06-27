@@ -7,10 +7,10 @@ API_HASH = '9b9a6349de77537748bb25ec87a71fc5'
 USUARIO = 'rargonzalez'
 PASSWORD = 'rar.75324'
 USUARIO_ID = 1046610589
-ZIP_MB = 399
+ZIP_MB = 398
 MOODLE_URL = 'moodle.uclv.edu.cu'
 OWNER = [1046610589]
 
 # CUENTA DE MEGA
-GMAIL_MEGA = 'danyorpascual@gmail.com'
-PASS_MEGA = 'yancarlos1482005'
+GMAIL_MEGA = 'quialamaikol@gmail.com'
+PASS_MEGA = '11301410'
